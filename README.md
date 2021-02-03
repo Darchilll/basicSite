@@ -1,3 +1,6 @@
+# Getting Started before Getting Started; Kindly view this on a computer, that way you'll be able to enjoy the animations
+Please allow the webapp to load for 2 minutes before using it, because of the free hosting, all the elements might not be shown working and the user experience could be ruined.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
